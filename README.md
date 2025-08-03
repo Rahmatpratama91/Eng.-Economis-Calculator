@@ -7,7 +7,7 @@
 - Python (pandas, seaborn, matplotlib)
 
 ## 📈 Features:
-- Calculates basic engineering economics values.
+- Calculates basic engineering economics values such as PV,IRR,NPV and FV.
 
 ## ✅ Result:
 
