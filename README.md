@@ -4,7 +4,7 @@
 - Simple calculator to assist engineer to calculate eng. economics related values.This project using Python including some of it libraries.
 
 ## ⚙️ Tools Used:
-- Python (pandas, seaborn, matplotlib)
+- Python (numpy,numpy_financial, matplotlib)
 
 ## 📈 Features:
 - Calculates basic engineering economics values such as PV, IRR, NPV and FV.
